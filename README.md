@@ -2,6 +2,8 @@
 This is a very basic and incomplete external ESP for FiveM.  
 It's my first ESP project, mainly for learning purposes.
 
+Leaving a ⭐ on the repo doesn’t hurt anyone :)  
+
 ---
 ## Features
 - External cheat
